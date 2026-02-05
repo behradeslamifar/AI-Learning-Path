@@ -1,7 +1,26 @@
 # AI-Learning-Path
 This is my journey as a DevOps engineer learning AI
 
-## ChatGPT Suggestions to begin
+## Prompt Engineering
+
+## Vibe Coding
+
+<details><summary>Prompt Engineering</summary>
+<p>
+
+- [github.io: Setup Planning and memory-bank](https://github.com/EnzeD/vibe-coding)
+
+</p>
+</details>
+
+<details><summary></summary>
+<p>
+
+</p>
+</details>
+
+## Understanding AI, LLM and MLOps 
+**I got help ChatGPT to prepare this learning plan.**
 Goal: Be able to clearly explain and practically implement:
 - How to deploy an LLM model on Kubernetes
 - How to schedule and scale GPU workloads
