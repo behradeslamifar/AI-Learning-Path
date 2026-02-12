@@ -8,6 +8,7 @@ This is my journey as a DevOps engineer learning AI
 <details><summary>Prompt Engineering</summary>
 <p>
 
+- [dair.ai: Introduction to Prompt Engineering](https://academy.dair.ai/courses/introduction-prompt-engineering)
 - [github.io: Setup Planning and memory-bank](https://github.com/EnzeD/vibe-coding)
 
 </p>
@@ -36,7 +37,7 @@ Goal: Be able to clearly explain and practically implement:
 - request, pandas, asyncio basics
 - Scripting, simple CLI
 - API Call (Rest APIs, json handling)
-- env/ven, virtualenv/poetry
+- [env/venv](python/venv.md), virtualenv/poetry, uv, [pyenv](python/pyenv.md)
 
 practic: send request to inference endpoint and get latency and send it as log
 
