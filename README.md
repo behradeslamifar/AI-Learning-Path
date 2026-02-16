@@ -1,21 +1,21 @@
 # AI-Learning-Path
 This is my journey as a DevOps engineer learning AI
 
-## Prompt Engineering
-
 ## Vibe Coding
 
 <details><summary>Prompt Engineering</summary>
 <p>
 
 - [dair.ai: Introduction to Prompt Engineering](https://academy.dair.ai/courses/introduction-prompt-engineering)
-- [github.io: Setup Planning and memory-bank](https://github.com/EnzeD/vibe-coding)
 
 </p>
 </details>
 
-<details><summary></summary>
+<details><summary>Vibe Coding</summary>
 <p>
+
+- [github.io: Setup Planning and memory-bank](https://github.com/EnzeD/vibe-coding)
+- [Install Codex](vibe-condig/codex.md)
 
 </p>
 </details>
@@ -34,7 +34,7 @@ Goal: Be able to clearly explain and practically implement:
  Tooling and Automation
 - Basic Syntax
   - [deeplearining.ai: AI Python for Beginners](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/z57gn/introduction)
-- request, pandas, asyncio basics
+- request, [pandas](python/pandas.md), asyncio basics
 - Scripting, simple CLI
 - API Call (Rest APIs, json handling)
 - [env/venv](python/venv.md), virtualenv/poetry, uv, [pyenv](python/pyenv.md)
