@@ -31,15 +31,15 @@ Goal: Be able to clearly explain and practically implement:
 <details><summary>Practical Python</summary>
 <p>
 
- Tooling and Automation
+**Tooling and Automation**
+- [Development Environment](python/python-dev-environment.md): env/venv, pyenv, virtualenv/poetry, uv
 - Basic Syntax
   - [deeplearining.ai: AI Python for Beginners](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/z57gn/introduction)
 - request, [pandas](python/pandas.md), asyncio basics
 - Scripting, simple CLI
 - API Call (Rest APIs, json handling)
-- [env/venv](python/venv.md), virtualenv/poetry, uv, [pyenv](python/pyenv.md)
 
-practic: send request to inference endpoint and get latency and send it as log
+**Try**: send request to inference endpoint and get latency and send it as log and save [helper_functions](python/helper_functions.py).
 
 </p>
 </details>
