@@ -4,7 +4,7 @@ Chat gpt coding assistance. To use codex you can use your ChatGPT pro account to
 ## Install required dependency
 node => 16
 
-### nvm
+### Manage multipe node version with nvm
 Install nvm to manage multiple version of `node` in your system
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
